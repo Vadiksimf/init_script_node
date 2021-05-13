@@ -13,6 +13,6 @@ function node-project {
 }
 ```
 
-Add to: ~/.bashrc 
-Activate: source ~/.bashrc or open a new command line window and run node-project. 
+Add to: ~/.bashrc \b
+Activate: source ~/.bashrc or open a new command line window and run node-project. \b
 Start: node-project
